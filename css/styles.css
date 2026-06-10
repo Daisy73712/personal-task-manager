@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#task-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 400px;
+  margin-bottom: 20px;
+}
+
+.task-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
